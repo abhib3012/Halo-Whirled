@@ -1,1 +1,3 @@
+Hello, World!
+It's going great!
 This is going to be my first file on a Git repo.
